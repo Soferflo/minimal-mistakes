@@ -17,7 +17,7 @@ subtitle                 : "Expertise jurídica combinada com tecnologia de pont
 name                     : &name "Sônia Fernandes Florêncio" # &name is a YAML anchor which can be *referenced later
 description              : &description "advogada com habilidades em gestão de contratos, licitações e equipes, além de ter conhecimentos em tecnologias como Blockchain, Smart Contracts e Machine Learning. "
 url                      : https://sfernandes.adv.br # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "soferflo/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "./assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
