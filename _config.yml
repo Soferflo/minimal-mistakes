@@ -98,22 +98,22 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  avatar           : "/assets/images/sonia_avatar.jpg"
+  bio              : "Advogada pós-graduada em Direito Empresarial, especializada em licitações, contratos de energia elétrica, blockchain e gestão de contratos inteligentes. Apaixonada por tecnologia e inovação, ajudando empresas a navegar em um mundo em constante evolução. #DireitoEmpresarial #Tecnologia #Inovação"
+  location         : "Sorocaba-SP"
   links:
-    - label: "Made Mistakes"
+    - label: "Blog"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://sfernandes.adv.br/year-archive/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/soferflo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/soferflo"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sfernandesadv/"
 
 
 # Site Footer
@@ -121,13 +121,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/soferflo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/soferflo"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sfernandesadv/"
 
 
 # Reading Files
