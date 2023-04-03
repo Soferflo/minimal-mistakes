@@ -99,7 +99,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/sonia_avatar.jpg"
-  bio              : "Advogada pós-graduada em Direito Empresarial, especializada em licitações, contratos de energia elétrica, blockchain e gestão de contratos inteligentes. Apaixonada por tecnologia e inovação, ajudando empresas a navegar em um mundo em constante evolução. #DireitoEmpresarial #Tecnologia #Inovação"
+  bio              : "Advogada pós-graduada em Direito Empresarial, especializada em licitações, contratos de energia elétrica, blockchain e gestão de contratos inteligentes."
   location         : "Sorocaba-SP"
   links:
     - label: "Blog"
